@@ -1,0 +1,9 @@
+{
+    "token":" BOTUNUZUN TOKENİ ",
+    "sahip":"SAHİP ID'Sİ",
+    "anasunucuID": "ANA SUNUCU ID'Sİ",
+    "ikinciID": "2. SUCUNU ID'Sİ",
+    "excludedRoles": ["2. SUNUCU SAFE ROLÜ ID'Sİ"],
+    "abonerolkanallink": "https://discord.com/channels/  || Kullanıcıların erişmesini istediği kanal linki ",
+    "bot-adi":"Rimuru Shop Abone"
+}
